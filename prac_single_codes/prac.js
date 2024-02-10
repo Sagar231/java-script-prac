@@ -27,3 +27,4 @@ class Animal {
   m.eatBanana()
   m.hide()
   // ani.hide() //This will throw an error
+  //ok
