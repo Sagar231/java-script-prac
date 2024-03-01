@@ -12,5 +12,5 @@ const checkWinner = function(scDol,scKol){
 }
 let scoreDolphins = calcAverage(44,2,7)
 let scoreKoalas = calcAverage(65,54,49)
-
+// ok
 console.log(checkWinner(scoreDolphins,scoreKoalas))
