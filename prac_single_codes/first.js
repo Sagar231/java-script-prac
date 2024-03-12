@@ -40,3 +40,5 @@ for (let i of a){
   console.log(i)
 }
 for (let i in num){console.log(num[i])}
+//complete
+
