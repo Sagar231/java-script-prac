@@ -16,6 +16,7 @@ let d = delete a[0]// returns true
 // console.log(a) //the length remains the same of a <1 empty item>
 let newarray = a.concat(a2) //adds the two arrays without affacting the origanals
 //we can also do a.concat(a2,a3,a4) all will be added
+let newarr_ = a.
 let y = a.sort() // it sort alphabatically(first 1 then 2(even 2000) an so on)
 console.log(y)
 
@@ -42,3 +43,5 @@ for (let i of a){
 for (let i in num){console.log(num[i])}
 //complete
 
+
+//

@@ -1,4 +1,4 @@
-// Callbacks
+
 function loadScript(src, callback) {
     var script = document.createElement("script");
     script.src = src;
@@ -20,7 +20,7 @@ function loadScript(src, callback) {
     }
     alert('Hello World!' + src);
   }
-  
+  let anty = 23
   
   function goodmorning(error, src) {
     
