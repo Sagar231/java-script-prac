@@ -1,3 +1,3 @@
 # java-script-prac
 
-Practice for java script
+Practice for java script for learning
