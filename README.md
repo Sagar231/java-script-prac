@@ -1,4 +1,4 @@
 # java-script-prac
 
 Practice for java script 
-with many different projects including CSS3 and HTML
+with many different projects including CSS and HTML
