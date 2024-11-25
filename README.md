@@ -2,3 +2,4 @@
 
 Practice for java script 
 with many different projects including CSS3 and HTML
+Hosted on github
